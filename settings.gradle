@@ -1,0 +1,4 @@
+include ':module_animation_view'
+include ':module_slide_verify_bar'
+include ':app'
+rootProject.name = "WigetLibrary"
